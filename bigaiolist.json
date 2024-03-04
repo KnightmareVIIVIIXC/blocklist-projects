@@ -1,0 +1,32 @@
+{
+	"name": "The Big AIO List",
+	"description": "A lot of blocking in one list",
+	"license": "MIT",
+	"homepage": "https://github.com/KnightmareVIIVIIXC/bigaioblocklist",
+	"sources": [{
+			"name": "1Hosts Xtra",
+			"source": "https://o0.pages.dev/Xtra/adblock.txt",
+			"type": "adblock"
+		}, {
+			"name": "HaGeZi's Ultimate DNS Blocklist",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
+			"type": "adblock"
+		}, {
+			"name": "hBlock",
+			"source": "https://hblock.molinero.dev/hosts_adblock.txt",
+			"type": "adblock"
+		}, {
+			"name": "OISD Big",
+			"source": "https://big.oisd.nl/",
+			"type": "adblock"
+		}, {
+			"name": "Steven Black Hosts",
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+			"type": "hosts"
+		}, {
+			"name": "HaGeZi's TIF",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
+			"type": "adblock"
+		}],
+	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+}
