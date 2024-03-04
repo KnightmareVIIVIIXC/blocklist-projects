@@ -1,7 +1,6 @@
 {
 	"name": "The Big AIO List",
 	"description": "A lot of blocking in one list",
-	"license": "MIT",
 	"homepage": "https://github.com/KnightmareVIIVIIXC/bigaioblocklist",
 	"sources": [{
 			"name": "1Hosts Xtra",
