@@ -2,7 +2,7 @@
 
 # Included Lists
 
-| List | URL |
+| List | Homepage |
 |:---:|---|
 | 1Hosts Xtra | https://github.com/badmojr/1Hosts |
 | HaGeZi's Ultimate + TIF DNS Blocklists | https://github.com/hagezi/dns-blocklists |
