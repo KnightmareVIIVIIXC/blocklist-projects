@@ -23,6 +23,14 @@
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
 			"type": "hosts"
 		}, {
+			"name": "GoodbyeAds",
+			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
+			"type": "adblock"
+		}, {
+			"name": "GOODBYEADS",
+			"source": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt",
+			"type": "adblock"
+		}, {
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
