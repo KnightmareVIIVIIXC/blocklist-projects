@@ -8,7 +8,7 @@
 | HaGeZi's Ultimate + TIF DNS Blocklists | https://github.com/hagezi/dns-blocklists |
 | hBlock | https://hblock.molinero.dev |
 | OISD Big | https://oisd.nl/ |
-| Steven Black Hosts | https://github.com/StevenBlack/hosts |
+| Steven Black Hosts<br>(Unified_hosts+fakenews+gambling+porn+social) | https://github.com/StevenBlack/hosts |
 | GoodbyeAds | https://github.com/jerryn70/GoodbyeAds |
 | GOODBYEADS | https://github.com/8680/GOODBYEADS |
 
