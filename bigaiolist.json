@@ -20,7 +20,7 @@
 			"type": "adblock"
 		}, {
 			"name": "Steven Black Hosts",
-			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
 			"type": "hosts"
 		}, {
 			"name": "GoodbyeAds",
