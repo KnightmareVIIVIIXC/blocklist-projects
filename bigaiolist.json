@@ -35,10 +35,6 @@
 			"source": "https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt",
 			"type": "hosts"
 		}, {
-			"name": "DeadEnd",
-			"source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
-			"type": "adblock"
-		}, {
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"

@@ -11,7 +11,6 @@
 | Steven Black<br>(Unified_hosts+fakenews+gambling+porn+social) | https://github.com/StevenBlack/hosts |
 | GoodbyeAds | https://github.com/jerryn70/GoodbyeAds |
 | GOODBYEADS | https://github.com/8680/GOODBYEADS |
-| DeadEnd | https://github.com/ammnt/DeadEnd |
 | Domains Blacklist | https://github.com/fabriziosalmi/blacklists |
 
 ![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/541f5231-a080-4dec-9598-37c5697d1086)
