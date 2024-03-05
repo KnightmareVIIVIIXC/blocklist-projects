@@ -35,6 +35,5 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
 		}],
-	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
-	"exclusions": ["||*.omtrdc.net^"]
+	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
 }
