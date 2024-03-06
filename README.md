@@ -1,5 +1,7 @@
 <div align="center">
 
+![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/25fe3c33-d2bb-4e4a-8849-4c5f8d344263)
+
 # Included Lists
 
 | Author | List | Homepage |
@@ -13,7 +15,5 @@
 | jerryn70 | [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | https://github.com/jerryn70/GoodbyeAds |
 | 8680 | [GOODBYEADS](https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt) | https://github.com/8680/GOODBYEADS |
 | fabriziosalmi | [Domains Blacklist](https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt) | https://github.com/fabriziosalmi/blacklists |
-
-![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/541f5231-a080-4dec-9598-37c5697d1086)
 
 </div>
