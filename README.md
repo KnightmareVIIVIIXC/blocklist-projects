@@ -5,7 +5,7 @@
 | List | Homepage |
 |:---:|---|
 | [1Hosts Xtra](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt) | https://github.com/badmojr/1Hosts |
-| [HaGeZi's Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) + [TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) DNS Blocklists | https://github.com/hagezi/dns-blocklists |
+| [HaGeZi's Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) + [TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) Blocklists | https://github.com/hagezi/dns-blocklists |
 | [hBlock](https://hblock.molinero.dev/hosts_adblock.txt) | https://hblock.molinero.dev |
 | [OISD Big](https://big.oisd.nl/) | https://oisd.nl/ |
 | Steven Black<br>[(Unified_hosts+fakenews+gambling+porn+social)](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts) | https://github.com/StevenBlack/hosts |
