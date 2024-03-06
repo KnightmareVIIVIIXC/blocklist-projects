@@ -3,6 +3,10 @@
 	"description": "A lot of blocking in one list",
 	"homepage": "https://github.com/KnightmareVIIVIIXC/bigaioblocklist",
 	"sources": [{
+			"name": "The Bog AIO List",
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
+			"type": "hosts"
+		}, {
 			"name": "1Hosts Xtra",
 			"source": "https://o0.pages.dev/Xtra/adblock.txt",
 			"type": "adblock"
@@ -30,7 +34,7 @@
 			"name": "GOODBYEADS",
 			"source": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt",
 			"type": "adblock"
-		},  {
+		}, {
 			"name": "Domains Blacklist",
 			"source": "https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt",
 			"type": "hosts"
