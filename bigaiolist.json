@@ -35,10 +35,6 @@
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
 			"type": "adblock"
 		}, {
-			"name": "GOODBYEADS",
-			"source": "https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt",
-			"type": "adblock"
-		}, {
 			"name": "Domains Blacklist",
 			"source": "https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt",
 			"type": "hosts"

@@ -13,7 +13,6 @@
 | sjhgvr | [OISD Big](https://big.oisd.nl/) + [NSFW](https://nsfw.oisd.nl/) | https://oisd.nl/ |
 | Steven Black | [(Unified_hosts+fakenews+gambling+porn+social)](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts) | https://github.com/StevenBlack/hosts |
 | jerryn70 | [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | https://github.com/jerryn70/GoodbyeAds |
-| 8680 | [GOODBYEADS](https://raw.githubusercontent.com/8680/GOODBYEADS/master/dns.txt) | https://github.com/8680/GOODBYEADS |
 | fabriziosalmi | [Domains Blacklist](https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt) | https://github.com/fabriziosalmi/blacklists |
 
 </div>
