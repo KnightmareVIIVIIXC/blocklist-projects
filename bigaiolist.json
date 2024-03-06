@@ -23,6 +23,10 @@
 			"source": "https://big.oisd.nl/",
 			"type": "adblock"
 		}, {
+			"name": "OISD nsfw",
+			"source": "https://nsfw.oisd.nl/",
+			"type": "adblock"
+		}, {
 			"name": "Steven Black Hosts",
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
 			"type": "hosts"
