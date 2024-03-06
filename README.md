@@ -1,8 +1,7 @@
 <div align="center">
 
-[![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/8949a55c-c7b3-4591-ae5c-8546b92602d3)
+[![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/1611abe7-6a7d-43ad-9e4c-9003fddf3941)
 ](https://raw.githubusercontent.com/KnightmareVIIVIIXC/bigaioblocklist/main/bigaiolist.txt)
-
 # Included Lists
 
 | Author | List | Homepage |
