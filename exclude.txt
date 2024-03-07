@@ -1,1 +1,2 @@
 localhost.localdomain
+||example.org^
