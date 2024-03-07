@@ -13,7 +13,7 @@
 | HaGeZi | [Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) + [TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) | https://github.com/hagezi/dns-blocklists |
 | hectorm | [hBlock](https://hblock.molinero.dev/hosts_adblock.txt) | https://hblock.molinero.dev |
 | jerryn70 | [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | https://github.com/jerryn70/GoodbyeAds |
-| sjhgvr | [OISD Big](https://big.oisd.nl/) + [NSFW](https://nsfw.oisd.nl/) | https://oisd.nl/ |
+| sjhgvr | [OISD Big](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt) + [NSFW](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_nsfw.txt) | https://oisd.nl/ |
 | Steven Black | [Unified hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) + [fakenews](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts) + [gambling](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts) + [porn](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts) + [social](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts) | https://github.com/StevenBlack/hosts |
 
 </div>
