@@ -44,5 +44,5 @@
 			"type": "adblock"
 		}],
 	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
-	"exclusions": ["||localhost.localdomain^"]
+	"exclusions_sources": ["exclude.txt"]
 }
