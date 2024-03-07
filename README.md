@@ -8,7 +8,7 @@
 | Author | List | Homepage |
 |:---:|:---:|---|
 | Knightmare | [The Bog AIO List](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists |
-| badmojr | [Xtra](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt) | https://github.com/badmojr/1Hosts |
+| badmojr | [1Hosts Xtra](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt) | https://github.com/badmojr/1Hosts |
 | fabriziosalmi | [Domains Blacklist](https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt) | https://github.com/fabriziosalmi/blacklists |
 | HaGeZi | [Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) + [TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) | https://github.com/hagezi/dns-blocklists |
 | hectorm | [hBlock](https://hblock.molinero.dev/hosts_adblock.txt) | https://hblock.molinero.dev |
