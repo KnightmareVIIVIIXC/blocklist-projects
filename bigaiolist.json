@@ -6,8 +6,7 @@
 	"sources": [{
 			"name": "The Bog AIO List",
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
-			"type": "hosts",
-			"exclusions": ["127.0.0.1 localhost.localdomain"]
+			"type": "hosts"
 		}, {
 			"name": "1Hosts Xtra",
 			"source": "https://o0.pages.dev/Xtra/adblock.txt",
@@ -31,8 +30,7 @@
 		}, {
 			"name": "Steven Black Hosts",
 			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
-			"type": "hosts",
-			"exclusions": ["127.0.0.1 localhost.localdomain"]
+			"type": "hosts"
 		}, {
 			"name": "GoodbyeAds",
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
@@ -46,5 +44,6 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
 		}],
-	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"]
+	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
+	"exclusions_sources": ["exclude.txt"]
 }
