@@ -43,6 +43,30 @@
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
+		}, {
+			"name": "HaGeZi's Bypass",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt",
+			"type": "adblock"
+		}, {
+			"name": "HaGeZi's SafeSearch",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt",
+			"type": "adblock"
+		}, {
+			"name": "HaGeZi's DynDNS",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt",
+			"type": "adblock"
+		}, {
+			"name": "HaGeZi's Hoster",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt",
+			"type": "adblock"
+		}, {
+			"name": "HaGeZi's Piracy",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt",
+			"type": "adblock"
+		}, {
+			"name": "HaGeZi's Gambling",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
+			"type": "adblock"
 		}],
 	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
 	"exclusions_sources": ["exclude.txt"]
