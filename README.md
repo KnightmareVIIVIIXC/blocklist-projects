@@ -16,5 +16,6 @@
 
 > [!TIP]
 > Verify which list is preventing access to a particular domain
-> by using the following link:<br>
+> by using the following link:
+> 
 > https://dnswarden.com/search.html
