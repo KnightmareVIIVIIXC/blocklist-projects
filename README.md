@@ -1,4 +1,3 @@
-<div align="center">
 
 [![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/c804d8bd-6e93-4379-a96f-539b5ebfd974)
 ](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/blob/main/bigaiolist.txt)
@@ -15,8 +14,6 @@
 | jerryn70 | [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | https://github.com/jerryn70/GoodbyeAds |
 | sjhgvr | [OISD Big](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt) • [NSFW](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_nsfw.txt) | https://oisd.nl/ |
 | Steven Black | [Unified Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) • [Fake News](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts) • [Gambling](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts) • [NSFW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts) • [Social](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts) | https://github.com/StevenBlack/hosts |
-
-</div>
 
 > [!TIP]
 > Verify which list is preventing access to a particular domain
