@@ -36,10 +36,6 @@
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
 			"type": "adblock"
 		}, {
-			"name": "Domains Blacklist",
-			"source": "https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt",
-			"type": "hosts"
-		}, {
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
