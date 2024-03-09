@@ -5,8 +5,6 @@
 
 # Included Lists
 
-Check to see which list is blocking a specific domain: https://dnswarden.com/search.html
-
 | Author | List(s) Included | Homepage |
 |:---:|:---:|---|
 | Knightmare | [The Bog AIO List](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists |
@@ -17,5 +15,7 @@ Check to see which list is blocking a specific domain: https://dnswarden.com/sea
 | jerryn70 | [GoodbyeAds](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt) | https://github.com/jerryn70/GoodbyeAds |
 | sjhgvr | [OISD Big](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt) • [NSFW](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_nsfw.txt) | https://oisd.nl/ |
 | Steven Black | [Unified Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) • [Fake News](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts) • [Gambling](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts) • [NSFW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts) • [Social](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts) | https://github.com/StevenBlack/hosts |
+
+Check to see which list is blocking a specific domain: https://dnswarden.com/search.html
 
 </div>
