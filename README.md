@@ -16,6 +16,6 @@
 | sjhgvr | [OISD Big](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt) • [NSFW](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_nsfw.txt) | https://oisd.nl/ |
 | Steven Black | [Unified Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) • [Fake News](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts) • [Gambling](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts) • [NSFW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts) • [Social](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts) | https://github.com/StevenBlack/hosts |
 
-Check to see which list is blocking a specific domain: https://dnswarden.com/search.html
+To determine which list is preventing access to a particular domain, please check the following link: https://dnswarden.com/search.html
 
 </div>
