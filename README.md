@@ -5,7 +5,7 @@
 
 # Included Lists
 
-Check to see which list is blocking a specific domain: https://dnswarden.com/index.html
+Check to see which list is blocking a specific domain: https://dnswarden.com/search.html
 
 | Author | List(s) Included | Homepage |
 |:---:|:---:|---|
