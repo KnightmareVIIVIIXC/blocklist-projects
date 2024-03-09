@@ -5,6 +5,8 @@
 
 # Included Lists
 
+Check to see which list is blocking which domain: https://dnswarden.com/index.html
+
 | Author | List(s) Included | Homepage |
 |:---:|:---:|---|
 | Knightmare | [The Bog AIO List](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists |
