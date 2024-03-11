@@ -3,9 +3,7 @@
 [![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/c804d8bd-6e93-4379-a96f-539b5ebfd974)
 ](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/blob/main/bigaiolist.txt)
 
-# Included Lists
-
-| Developer | List(s) Included | Homepage |
+| Developer | Included Lists | Homepage |
 |:---:|:---:|---|
 | Knightmare | [The Bog AIO List](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists |
 | badmojr | [1Hosts Xtra](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt) | https://github.com/badmojr/1Hosts |
