@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 > [!TIP]
 > Verify which list is preventing access to a particular domain
 > by using the following link:
