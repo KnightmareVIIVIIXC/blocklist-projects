@@ -20,3 +20,6 @@
 > by using the following link:
 > 
 >> https://dnswarden.com/search.html
+
+> [!NOTE]
+> [Pi-Hole Documentation](https://docs.pi-hole.net/)
