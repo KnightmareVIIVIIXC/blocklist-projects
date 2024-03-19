@@ -16,10 +16,7 @@
 </div>
 
 > [!TIP]
-> Verify which list is preventing access to a particular domain
-> by using the following link:
-> 
->> https://dnswarden.com/search.html
+> Verify which list is preventing access to<br>a particular domain by using [DNS Warden](https://dnswarden.com/search.html)
 
 > [!NOTE]
 > [Pi-Hole Documentation](https://docs.pi-hole.net/)
