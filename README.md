@@ -1,7 +1,6 @@
 <div align="center">
 
-[![](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/c804d8bd-6e93-4379-a96f-539b5ebfd974)
-](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/blob/main/bigaiolist.txt)
+![image](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/b351303f-7d26-4b47-9a54-0ef084626182)
 
 | Developer | Included Lists | Homepage |
 |:---:|:---:|---|
