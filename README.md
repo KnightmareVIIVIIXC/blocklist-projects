@@ -1,6 +1,7 @@
 <div align="center">
 
-![image](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/b351303f-7d26-4b47-9a54-0ef084626182)
+[![image](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/b351303f-7d26-4b47-9a54-0ef084626182)
+](https://adguard.com/en/adguard-home/overview.html)
 
 | Developer | Included Lists | Homepage |
 |:---:|:---:|---|
