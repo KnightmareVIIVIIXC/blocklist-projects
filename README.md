@@ -19,4 +19,4 @@
 > Verify which list is preventing access to a particular domain by using [DNS Warden](https://dnswarden.com/search.html)
 
 > [!Note]
-> DNS Warden does not search all of the lists included in this blocklist
+> DNS Warden does not search through all of the lists included in this blocklist
