@@ -17,6 +17,3 @@
 
 > [!TIP]
 > Verify which list is preventing access to a particular domain by using [DNS Warden](https://dnswarden.com/search.html)
-
-> [!NOTE]
-> [Pi-Hole Documentation](https://docs.pi-hole.net/)
