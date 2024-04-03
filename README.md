@@ -14,8 +14,3 @@
 | Steven Black | [Unified Hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts) • [Fake News](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-only/hosts) • [Gambling](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling-only/hosts) • [NSFW](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/porn-only/hosts) • [Social](https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social-only/hosts) | https://github.com/StevenBlack/hosts |
 
 </div>
-
-> [!TIP]
-> Verify which list is preventing access to a particular domain by using [DNS Warden](https://dnswarden.com/search.html)
-> 
->> DNS Warden does not search through all of the lists included in this blocklist
