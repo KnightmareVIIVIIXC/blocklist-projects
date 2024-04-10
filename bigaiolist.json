@@ -64,6 +64,10 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt",
 			"type": "adblock"
 		}, {
+			"name": "HaGeZi's NRDs",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrds.30.txt",
+			"type": "adblock"
+		}, {
 			"name": "HaGeZi's Gambling",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
 			"type": "adblock"
