@@ -36,6 +36,22 @@
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
 			"type": "adblock"
 		}, {
+			"name": "Xiaomi",
+			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt",
+			"type": "adblock"
+		}, {
+			"name": "Samsung",
+			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt",
+			"type": "adblock"
+		}, {
+			"name": "Spotify",
+			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt",
+			"type": "adblock"
+		}, {
+			"name": "YouTube",
+			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt",
+			"type": "adblock"
+		}, {
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
