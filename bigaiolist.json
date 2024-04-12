@@ -52,6 +52,10 @@
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt",
 			"type": "adblock"
 		}, {
+			"name": "HaGeZi's Personal",
+			"source": "https://github.com/hagezi/dns-blocklists/blob/main/adblock/personal.txt",
+			"type": "adblock"
+		}, {
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
