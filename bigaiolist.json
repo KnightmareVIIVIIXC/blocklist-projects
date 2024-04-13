@@ -8,6 +8,10 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
 			"type": "hosts"
 		}, {
+			"name": "1Hosts kidSaf",
+			"source": "https://badmojr.gitlab.io/addons_1hosts/kidSaf/adblock.txt",
+			"type": "adblock"
+		}, {
 			"name": "1Hosts Xtra",
 			"source": "https://o0.pages.dev/Xtra/adblock.txt",
 			"type": "adblock"
