@@ -3,7 +3,7 @@
 [![image](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/1b4074fc-ddae-4502-84c5-e1ca8ba667b9)
 ](https://github.com/AdguardTeam/AdguardHome)
 
-| Developer | Lists | Homepage |
+| Developer | Blocklists | Homepage |
 |:---:|:---:|---|
 | badmojr | [1Hosts Xtra](https://raw.githubusercontent.com/badmojr/1Hosts/master/Xtra/adblock.txt) • [1Hosts kidSaf](https://badmojr.gitlab.io/addons_1hosts/kidSaf/adblock.txt)| https://github.com/badmojr/1Hosts |
 | HaGeZi | [Personal](https://github.com/hagezi/dns-blocklists/blob/main/adblock/personal.txt) • [Ultimate](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt) • [TIF](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt) • [NRDs 30 Days](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nrds.30.txt) • [Fake](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/fake.txt) • [SafeSearch](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/nosafesearch.txt) • [DynDNS](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/dyndns.txt) • [Badware Hoster](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/hoster.txt) • [Piracy](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/anti.piracy.txt) • [Gambling](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt) • [DoH/VPN/Proxy Bypass](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/doh-vpn-proxy-bypass.txt) | https://github.com/hagezi/dns-blocklists |
