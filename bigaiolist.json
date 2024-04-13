@@ -4,10 +4,6 @@
 	"license": "https://github.com/KnightmareVIIVIIXC/bigaioblocklist/blob/main/bigaiolist.json",
 	"homepage": "https://github.com/KnightmareVIIVIIXC/bigaioblocklist",
 	"sources": [{
-			"name": "The Bog AIO List",
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
-			"type": "hosts"
-		}, {
 			"name": "1Hosts kidSaf",
 			"source": "https://badmojr.gitlab.io/addons_1hosts/kidSaf/adblock.txt",
 			"type": "adblock"
