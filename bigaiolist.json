@@ -12,6 +12,10 @@
 			"source": "https://o0.pages.dev/Xtra/adblock.txt",
 			"type": "adblock"
 		}, {
+			"name": "DeadEnd",
+			"source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
+			"type": "adblock"
+		}, {
 			"name": "blacklist",
 			"source": "https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt",
 			"type": "hosts"
