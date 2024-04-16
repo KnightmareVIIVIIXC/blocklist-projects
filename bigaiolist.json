@@ -14,7 +14,7 @@
 		}, {
 			"name": "The Bog AIO List",
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
-			"type": "adblock"
+			"type": "hosts"
 		}, {
 			"name": "DeadEnd",
 			"source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
