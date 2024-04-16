@@ -68,6 +68,10 @@
 			"source": "https://github.com/hagezi/dns-blocklists/blob/main/adblock/personal.txt",
 			"type": "adblock"
 		}, {
+			"name": "HaGeZi's Pop-Up Ads",
+			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/popupads.txt",
+			"type": "adblock"
+		}, {
 			"name": "HaGeZi's TIF",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/tif.txt",
 			"type": "adblock"
