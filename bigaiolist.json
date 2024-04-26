@@ -119,7 +119,7 @@
 			"name": "whitelist",
 			"source": "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt",
 			"type": "adblock"
-		}, ],
+		}],
 	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
 	"exclusions_sources": ["exclude.txt"]
 }
