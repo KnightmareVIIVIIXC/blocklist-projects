@@ -48,21 +48,21 @@
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
 			"type": "adblock"
 		}, {
-			"name": "Xiaomi",
+			"name": "GoodbyeAds-Xiaomi",
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt",
-			"type": "adblock"
+			"type": "hosts"
 		}, {
-			"name": "Samsung",
+			"name": "GoodbyeAds-Samsung",
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt",
-			"type": "adblock"
+			"type": "hosts"
 		}, {
-			"name": "Spotify",
+			"name": "GoodbyeAds-Spotify",
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Spotify-AdBlock.txt",
-			"type": "adblock"
+			"type": "hosts"
 		}, {
-			"name": "YouTube",
+			"name": "GoodbyeAds-YouTube",
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-YouTube-AdBlock.txt",
-			"type": "adblock"
+			"type": "hosts"
 		}, {
 			"name": "HaGeZi's Personal",
 			"source": "https://github.com/hagezi/dns-blocklists/blob/main/adblock/personal.txt",
