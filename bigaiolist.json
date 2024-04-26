@@ -108,6 +108,10 @@
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
 			"type": "adblock"
 		}, {
+			"name": "WilliDieEnte's Lists",
+			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/BetterBlocklist/main/combolists/AIO.txt",
+			"type": "adblock"
+		}, {
 			"name": "aio list",
 			"source": "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-AIO-List/main/aio_blocklist_final.txt",
 			"type": "adblock"
@@ -115,7 +119,7 @@
 			"name": "whitelist",
 			"source": "https://raw.githubusercontent.com/hl2guide/AdGuard-Home-Whitelist/main/whitelist.txt",
 			"type": "adblock"
-		}],
+		}, ],
 	"transformations": ["Compress", "Validate", "RemoveComments", "Deduplicate", "RemoveEmptyLines", "TrimLines"],
 	"exclusions_sources": ["exclude.txt"]
 }
