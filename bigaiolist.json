@@ -16,14 +16,6 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
 			"type": "hosts"
 		}, {
-			"name": "DeadEnd",
-			"source": "https://raw.githubusercontent.com/ammnt/DeadEnd/main/filter.txt",
-			"type": "adblock"
-		}, {
-			"name": "blacklist",
-			"source": "https://github.com/fabriziosalmi/blacklists/releases/download/latest/blacklist.txt",
-			"type": "hosts"
-		}, {
 			"name": "HaGeZi's Ultimate DNS Blocklist",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"type": "adblock"
@@ -106,10 +98,6 @@
 		}, {
 			"name": "HaGeZi's Gambling",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/gambling.txt",
-			"type": "adblock"
-		}, {
-			"name": "WilliDieEnte's Lists",
-			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/BetterBlocklist/main/combolists/AIO.txt",
 			"type": "adblock"
 		}, {
 			"name": "aio list",
