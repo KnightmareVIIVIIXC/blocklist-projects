@@ -16,6 +16,10 @@
 			"source": "https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt",
 			"type": "hosts"
 		}, {
+			"name": "Qwiil's filterlist",
+			"source": "https://raw.githubusercontent.com/QWIILXEY/filterlist-collection/main/Qwiil's-filterlist.txt",
+			"type": "adblock"
+		}, {
 			"name": "HaGeZi's Ultimate DNS Blocklist",
 			"source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt",
 			"type": "adblock"
