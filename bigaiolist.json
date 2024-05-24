@@ -32,10 +32,6 @@
 			"source": "https://nsfw.oisd.nl/",
 			"type": "adblock"
 		}, {
-			"name": "Steven Black Hosts",
-			"source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts",
-			"type": "hosts"
-		}, {
 			"name": "GoodbyeAds",
 			"source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
 			"type": "adblock"
