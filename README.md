@@ -13,5 +13,6 @@
 | Knightmare | [The Bog AIO Blocklist](https://raw.githubusercontent.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists/main/hostslists/aiofirebog.txt) | https://github.com/KnightmareVIIVIIXC/AIO-Firebog-Blocklists |
 | QWIILXEY  | [Qwiil's filterlist](https://raw.githubusercontent.com/QWIILXEY/filterlist-collection/main/Qwiil's-filterlist.txt) • [Qwiil's blocklist](https://github.com/QWIILXEY/filterlist-collection/raw/main/Qwiil's-blocklist) • [GoodFilter](https://github.com/QWIILXEY/filtrite/releases) | https://github.com/QWIILXEY/filterlist-collection |
 | sjhgvr | [OISD Big](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt) • [NSFW](https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_nsfw.txt) | https://github.com/sjhgvr/oisd |
+| WilliDieEnte | [Advertising](https://ente.dev/api/blocklist/advertising-hosts) • [Google-AMP](https://ente.dev/api/blocklist/google-amp-hosts) • [Suspicious](https://ente.dev/api/blocklist/suspicious-hosts) • [Tracking](https://ente.dev/api/blocklist/tracking-hosts) • [TV](https://ente.dev/api/blocklist/tv-hosts) • [TikTok](https://ente.dev/api/blocklist/tiktok-hosts) • [YouTube-ADS](https://ente.dev/api/blocklist/youtube-advertising-hosts) | https://github.com/WilliDieEnte/BetterBlocklist |
 
 </div>
