@@ -1,7 +1,7 @@
 <div align="center">
 
-[![adghome](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/8ac66069-e240-48fb-8ab3-5eb97b4eb72f)
-](https://github.com/AdguardTeam/AdguardHome)
+![image](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/8ac66069-e240-48fb-8ab3-5eb97b4eb72f)
+
 
 | Developer | Lists | Homepage |
 |:---:|:---:|---|
