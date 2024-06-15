@@ -1,8 +1,5 @@
 <div align="center">
 
-![image](https://github.com/KnightmareVIIVIIXC/bigaioblocklist/assets/114373431/8ac66069-e240-48fb-8ab3-5eb97b4eb72f)
-
-
 | Developer | Lists | Homepage |
 |:---:|:---:|---|
 | ammnt | [DeadEnd](https://github.com/ammnt/DeadEnd/raw/main/filter.txt) | https://github.com/ammnt/DeadEnd |
